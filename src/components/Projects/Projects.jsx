@@ -7,7 +7,7 @@ const PROJECTS = [
     descr:
       "Panelista's aim is to provide access to a list of diverse speakers and panelists, so it is easier for event organizers to increase diverse representation on stage.",
     website: "https://panelista.propulsion-learn.ch",
-    image: "src/assets/projects/Panelista.png",
+    image: "src/assets/Panelista.png",
   },
   {
     id: 1,
@@ -15,7 +15,7 @@ const PROJECTS = [
     descr:
       "A social media application created as a project during a bootcamp at Constructor Academy.",
     website: "https://margarita2104.github.io/motion-frontend",
-    image: "src/assets/projects/Motion.png",
+    image: "src/assets/Motion.png",
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ const PROJECTS = [
     descr:
       "A website designed to provide support to start-ups, small, and middle-size businesses in complying with regulatory standards and building an efficient business structure.",
     website: "https://smart-compliance.ch",
-    image: "src/assets/projects/Smart-compliance.png",
+    image: "src/assets/Smart-compliance.png",
   },
   {
     id: 3,
@@ -31,7 +31,7 @@ const PROJECTS = [
     descr:
       "A website dedicated to showcasing services that enhance living and working spaces, including construction, repairs, moving, and cleaning, with a focus on quality and customer satisfaction.",
     website: "https://upsurge.ch",
-    image: "src/assets/projects/Upsurge.png",
+    image: "src/assets/Upsurge.png",
   },
   {
     id: 4,
@@ -39,7 +39,7 @@ const PROJECTS = [
     descr:
       "Blanchard Website is a course project developed for the Frontend Development course by Skillbox. This project showcases the use of HTML, CSS, and JavaScript to create a responsive and dynamic website.",
     website: "https://margarita2104.github.io/blanchard-skillbox/",
-    image: "src/assets/projects/Blanchard.png",
+    image: "src/assets/Blanchard.png",
   },
   {
     id: 5,
@@ -47,7 +47,7 @@ const PROJECTS = [
     descr:
       "Simple yet engaging game brings back the nostalgia of classic arcade fun. Developed using JavaScript and rendered on HTML5 Canvas.",
     website: "https://margarita2104.github.io/pong-game/",
-    image: "src/assets/projects/Pong.png",
+    image: "src/assets/Pong.png",
   },
 ];
 
