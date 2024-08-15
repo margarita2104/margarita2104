@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experince
 
 Here are some of the projects I’ve worked on. You can find more details on my [personal website](https://margarita2104.github.io/margarita2104/).
 
-- **[Panelista](https://panelista.propulsion-learn.ch)**: Panelista's aim is to provide access to a list of diverse speakers and panelists, so it is easier for event organizers to increase diverse representation on stage..
+- **[Panelista](https://panelista.propulsion-learn.ch)**: Panelista's aim is to provide access to a list of diverse speakers and panelists, so it is easier for event organizers to increase diverse representation on stage.
 - **[Motion](https://margarita2104.github.io/motion-frontend/)**: A social media application created as a project during a bootcamp at Constructor Academy.
 - **[SMART-compliance](https://smart-compliance.ch)**: A website designed to provide support to start-ups, small, and middle-size businesses in complying with regulatory standards and building an efficient business structure.
 
@@ -40,7 +40,6 @@ Feel free to check out my GitHub repositories for more!
 ## 🌟 Upcoming Participation
 
 I'm getting ready to participate in the **2024 NASA Space Apps Challenge** in Zurich. It's an incredible opportunity to work on innovative projects and collaborate with other passionate individuals in the tech community.
-
 
 ## 📈 GitHub Stats
 
