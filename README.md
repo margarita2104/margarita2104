@@ -14,7 +14,7 @@ Here are some of the projects I’ve worked on. You can find more details on my 
 - **[Panelista](https://panelista.propulsion-learn.ch)**: Panelista's aim is to provide access to a list of diverse speakers and panelists, so it is easier for event organizers to increase diverse representation on stage..
 - **[Motion](https://margarita2104.github.io/motion-frontend/)**: A social media application created as a project during a bootcamp at Constructor Academy.
 - **[SMART-compliance](https://smart-compliance.ch)**: A website designed to provide support to start-ups, small, and middle-size businesses in complying with regulatory standards and building an efficient business structure.
-- 
+
 Feel free to check out my GitHub repositories for more!
 
 ## 🛠️ Skills & Technologies
