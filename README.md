@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experince
 ## 🔗 Connect with Me
 
 - 🌐 **Website:** [margarita2104.github.io](https://margarita2104.github.io/margarita2104/)
-- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/margarita-ferreira/)
+- 💼 **LinkedIn:** [Margarita Ferreira](https://www.linkedin.com/in/margarita-ferreira/)
 
 ## 💻 Projects & Work
 
