@@ -37,9 +37,18 @@ Feel free to check out my GitHub repositories for more!
 - **Ruby:** I'm currently learning Ruby with [Ruby Monstas Zurich](https://www.rubymonstas.ch/). It's been a fantastic journey into the world of Ruby programming, and I'm excited to continue building my skills.
 - **Web Design:** I'm also enhancing my web design skills through a course on Udemy.
 
+## 🔨 Projects I'm Currently Working On
+
+- **[Atomic Quest:](https://margarita2104.github.io/atomic-quest/)** A DnD-based game set in a world of cyber-socialism. Become a warrior of justice, battle legendary monsters, navigate party intrigues, and explore vast worlds. Your choices shape the story, guided by the Leader of the Cybernetic Proletariat Revolution and your luck. Experience a unique twist on classic role-playing.
+
+- **Swissitize**: Master Swiss knowledge with ease. Prepare for naturalization with personalized flashcards. This is my first big project in Ruby, which I'm developing with the help of my friends from Ruby Monstas.
+
+
 ## 🌟 Upcoming Participation
 
-I'm getting ready to participate in the **2024 NASA Space Apps Challenge** in Zurich. It's an incredible opportunity to work on innovative projects and collaborate with other passionate individuals in the tech community.
+I'm getting ready to participate in:
+- **2024 NASA Space Apps Challenge** in Zurich
+- **#herHACK:** A female-led hackathon in Zurich
 
 ## 📈 GitHub Stats
 
