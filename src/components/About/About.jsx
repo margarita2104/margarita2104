@@ -13,7 +13,7 @@ const About = () => {
       <div className="w-full md:w-1/2">
         <h2 className="text-5xl font-bold font-montserrat mb-10">ABOUT ME</h2>
         <p className="mb-3">
-          I&rsquo;m a&nbsp;Zurich-based Frontend Developer passionate about
+          I&rsquo;m a&nbsp;Zurich-based Software Developer passionate about
           creating visually appealing, user-friendly web experiences.
           My&nbsp;background in&nbsp;event management and translation has
           sharpened my&nbsp;communication and multitasking skills, which&nbsp;I
