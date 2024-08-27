@@ -2,10 +2,10 @@ import AboutImg from "../../assets/about-image.svg";
 
 const About = () => {
   return (
-    <section id="about" className="relative min-h-screen flex">
+    <section id="about" className="relative md:min-h-screen min-h-96 mb-20 flex">
       <div className="md:w-1/2 w-none">
         <img
-          className="absolute md:-top-48 -top-80 -left-80 -z-10 md:max-w-screen-md max-w-screen-sm"
+          className="absolute md:-top-48 -top-60 -left-80 -z-10 md:max-w-screen-md max-w-screen-sm"
           src={AboutImg}
           alt="Decorative element"
         />

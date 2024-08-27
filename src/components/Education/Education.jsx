@@ -110,7 +110,7 @@ const Education = () => {
   };
 
   return (
-    <section className="relative min-h-screen flex">
+    <section className="relative md:min-h-screen min-h-96 mb-20 flex">
       <div className="w-none md:w-1/2">
         <img
           className="absolute -z-10 md:max-w-2xl -left-20"

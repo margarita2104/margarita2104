@@ -59,7 +59,7 @@ const PROJECTS = [
 
 const Projects = () => {
   return (
-    <section id="projects" className="relative min-h-screen">
+    <section id="projects" className="relative md:min-h-screen min-h-96 mb-20">
       <h2 className="md:text-5xl text-3xl font-bold font-montserrat mb-10 text-center">
         MY PROJECTS
       </h2>

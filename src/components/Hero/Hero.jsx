@@ -2,7 +2,7 @@ import HeroImg from "../../assets/hero-image.svg";
 
 const Hero = () => {
   return (
-    <section className="relative min-h-screen flex">
+    <section className="relative md:min-h-screen min-h-96 flex">
       <h1 className="md:text-6xl text-3xl font-bold font-montserrat md:mt-28 mt-14 md:w-2/3">
         HI, I&rsquo;M&nbsp;MARGARITA, SOFTWARE DEVELOPER
       </h1>
