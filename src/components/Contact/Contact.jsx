@@ -15,10 +15,10 @@ const Contacts = () => {
       id="contact"
       className="relative min-h-screen overflow-hidden flex flex-col items-center gap-16"
     >
-      <h2 className="text-5xl font-bold font-montserrat mb-10 text-center">
+      <h2 className="md:text-5xl text-3xl font-bold font-montserrat mb-10 text-center">
         LET&rsquo;S GET IN&nbsp;TOUCH
       </h2>
-      <div className="flex w-2/4 justify-between" >  
+      <div className="flex md:w-2/4 w-full justify-between" >  
         <div>
           <a
             href="mailto:margarita.p.ferreira@gmail.com"
@@ -61,7 +61,7 @@ const Contacts = () => {
       </div>
 
       <img
-        className="absolute -z-10 -bottom-60 -right-2 max-w-5xl"
+        className="absolute -z-10 -bottom-60 -right-2 md:max-w-5xl max-w-2xl"
         src={ContactImg}
         alt="Decorative element"
       />

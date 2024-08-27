@@ -113,13 +113,13 @@ const Education = () => {
     <section className="relative min-h-screen flex">
       <div className="w-none md:w-1/2">
         <img
-          className="absolute -z-10 max-w-2xl -left-20"
+          className="absolute -z-10 md:max-w-2xl -left-20"
           src={EducationImg}
           alt="Decorative element"
         />
       </div>
       <div className="w-full md:w-1/2">
-        <h2 className="text-5xl font-bold font-montserrat mb-10">EDUCATION</h2>
+        <h2 className="md:text-5xl text-3xl font-bold font-montserrat mb-10">EDUCATION</h2>
         <div>
           {EDUCATION.map((course, index) => (
             <div key={index}>
@@ -134,7 +134,7 @@ const Education = () => {
                 hover:border-bright-sun hover:text-bright-sun`}
               >
                 <h3
-                  className={`font-semibold py-3 px-9 w-full text-start text-xl transition-colors duration-300 
+                  className={`font-semibold py-3 px-9 w-full text-start text-md transition-colors duration-300 
                   ${
                     openIndex === index
                       ? "text-bright-sun"

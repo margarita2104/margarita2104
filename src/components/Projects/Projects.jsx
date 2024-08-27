@@ -60,11 +60,11 @@ const PROJECTS = [
 const Projects = () => {
   return (
     <section id="projects" className="relative min-h-screen">
-      <h2 className="text-5xl font-bold font-montserrat mb-10 text-center">
+      <h2 className="md:text-5xl text-3xl font-bold font-montserrat mb-10 text-center">
         MY PROJECTS
       </h2>
       <img
-        className="absolute -z-10 -top-20 -right-20"
+        className="absolute -z-10 -top-20 md:-right-20 -right-5"
         src={ProjectsImg}
         alt="Decorative element"
       />

@@ -5,13 +5,15 @@ const About = () => {
     <section id="about" className="relative min-h-screen flex">
       <div className="md:w-1/2 w-none">
         <img
-          className="absolute -top-48 -left-80 -z-10 max-w-screen-md "
+          className="absolute md:-top-48 -top-80 -left-80 -z-10 md:max-w-screen-md max-w-screen-sm"
           src={AboutImg}
           alt="Decorative element"
         />
       </div>
       <div className="w-full md:w-1/2">
-        <h2 className="text-5xl font-bold font-montserrat mb-10">ABOUT ME</h2>
+        <h2 className="md:text-5xl text-3xl  font-bold font-montserrat mb-10">
+          ABOUT ME
+        </h2>
         <p className="mb-3">
           I&rsquo;m a&nbsp;Zurich-based Software Developer passionate about
           creating visually appealing, user-friendly web experiences.
