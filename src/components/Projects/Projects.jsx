@@ -12,7 +12,7 @@ const PROJECTS = [
     name: "Panelista",
     descr:
       "Panelista's aim is to provide access to a list of diverse speakers and panelists, so it is easier for event organizers to increase diverse representation on stage.",
-    website: "https://panelista.propulsion-learn.ch",
+    website: "https://panelista.ch",
     image: PanelistaImg,
   },
   {
