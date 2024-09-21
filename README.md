@@ -21,7 +21,7 @@ Feel free to check out my GitHub repositories for more!
 
 ### Front-end
 - **Languages & Tools:** JavaScript (ES5/ES6), HTML5, CSS3
-- **Frameworks & Libraries:** React, Redux
+- **Frameworks & Libraries:** React.js, Redux
 - **Other Skills:** DOM Manipulation, React Forms, React Router, Frontend Authentication, Hooks, Higher Order Components (HOC), Styled Components
 
 ### Back-end
