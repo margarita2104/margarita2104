@@ -35,14 +35,13 @@ Feel free to check out my GitHub repositories for more!
 ## 🚀 Currently Learning
 
 - **Ruby:** I'm currently learning Ruby with [Ruby Monstas Zurich](https://www.rubymonstas.ch/). It's been a fantastic journey into the world of Ruby programming, and I'm excited to continue building my skills.
-- **Web Design:** I'm also enhancing my web design skills through a course on Udemy.
+- **Data Structures & Algorithms:** I'm currently learning more about data structures and algorithms through a course on Udemy.
 
 ## 🔨 Projects I'm Currently Working On
 
-- **[Atomic Quest:](https://margarita2104.github.io/atomic-quest/)** A DnD-based game set in a world of cyber-socialism. Become a warrior of justice, battle legendary monsters, navigate party intrigues, and explore vast worlds. Your choices shape the story, guided by the Leader of the Cybernetic Proletariat Revolution and your luck. Experience a unique twist on classic role-playing.
-
 - **Swissitize**: Master Swiss knowledge with ease. Prepare for naturalization with personalized flashcards. This is my first big project in Ruby, which I'm developing with the help of my friends from Ruby Monstas.
 
+- **[Atomic Quest:](https://margarita2104.github.io/atomic-quest/)** A DnD-based game set in a world of cyber-socialism. Become a warrior of justice, battle legendary monsters, navigate party intrigues, and explore vast worlds. Your choices shape the story, guided by the Leader of the Cybernetic Proletariat Revolution and your luck. Experience a unique twist on classic role-playing.
 
 ## 🌟 Upcoming Participation
 
