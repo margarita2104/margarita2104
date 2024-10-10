@@ -40,14 +40,17 @@ Feel free to check out my GitHub repositories for more!
 ## 🔨 Projects I'm Currently Working On
 
 - **Swissitize**: Master Swiss knowledge with ease. Prepare for naturalization with personalized flashcards. This is my first big project in Ruby, which I'm developing with the help of my friends from Ruby Monstas.
-
 - **[Atomic Quest:](https://margarita2104.github.io/atomic-quest/)** A DnD-based game set in a world of cyber-socialism. Become a warrior of justice, battle legendary monsters, navigate party intrigues, and explore vast worlds. Your choices shape the story, guided by the Leader of the Cybernetic Proletariat Revolution and your luck. Experience a unique twist on classic role-playing.
 
 ## 🌟 Upcoming Participation
 
 I'm getting ready to participate in:
-- **2024 NASA Space Apps Challenge** in Zurich
 - **#herHACK:** A female-led hackathon in Zurich
+
+## 🌟 Past Hackathons
+
+I've participated in:
+- **2024 NASA Space Apps Challenge**. We've created **[CosmicClassroom](https://github.com/geirnaert-alan/cosmic-classroom)**: an interactive platform designed to bring the wonders of space into classrooms through tailored lesson plans, engaging activities, and NASA-backed resources. It addresses the challenge of making exoplanet education accessible, particularly for underserved communities. 
 
 ## 📈 GitHub Stats
 
