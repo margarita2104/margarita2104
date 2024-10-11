@@ -20,7 +20,7 @@ Feel free to check out my GitHub repositories for more!
 ## 🛠️ Skills & Technologies
 
 ### Front-end
-- **Languages & Tools:** JavaScript (ES5/ES6), HTML, CSS
+- **Languages & Tools:** JavaScript (ES5/ES6), HTML, CSS, TypeScript
 - **Frameworks & Libraries:** React.js, Redux
 - **Other Skills:** DOM Manipulation, React Forms, React Router, Frontend Authentication, Hooks, Higher Order Components (HOC), Styled Components
 
