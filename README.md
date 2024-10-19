@@ -50,7 +50,9 @@ I'm getting ready to participate in:
 ## 🌟 Past Hackathons
 
 I've participated in:
-- **2024 NASA Space Apps Challenge**. We've created **[CosmicClassroom](https://github.com/geirnaert-alan/cosmic-classroom)**: an interactive platform designed to bring the wonders of space into classrooms through tailored lesson plans, engaging activities, and NASA-backed resources. It addresses the challenge of making exoplanet education accessible, particularly for underserved communities. 
+- **2024 NASA Space Apps Challenge - Switzerland Chapter Winner**
+
+We've created **[CosmicClassroom](https://github.com/geirnaert-alan/cosmic-classroom)**: an interactive platform designed to bring the wonders of space into classrooms   through tailored lesson plans, engaging activities, and NASA-backed resources. It addresses the challenge of making exoplanet education accessible, particularly for underserved communities. We are proud to represent Switzerland on a global stage as winners of the Switzerland chapter.
 
 ## 📈 GitHub Stats
 
