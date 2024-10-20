@@ -30,7 +30,7 @@ Feel free to check out my GitHub repositories for more!
 - **Other Skills:** Backend Authentication, SQLite, PostgreSQL
 
 ### DevOps
-- **Tools & Platforms:** Docker, Docker Compose, DigitalOcean, CI/CD, Git, GitLab
+- **Tools & Platforms:** Docker, Docker Compose, DigitalOcean, CI/CD, Git, GitLab, npm
 
 ## 🚀 Currently Learning
 
