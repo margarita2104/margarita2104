@@ -1,7 +1,7 @@
 import EducationImg from "../../assets/education-image.svg";
 import BtnOpen from "../../assets/btn-open.svg";
 import BtnClose from "../../assets/btn-close.svg";
-import { useState } from "react";
+import { useRef, useState } from "react";
 
 const EDUCATION = [
   {
@@ -105,12 +105,14 @@ const EDUCATION = [
 
 const Education = () => {
   const [openIndex, setOpenIndex] = useState(null);
+  const contentRefs = useRef([]);
+
   const handleToggle = (index) => {
     setOpenIndex(openIndex === index ? null : index);
   };
 
   return (
-    <section className="relative md:min-h-screen min-h-96 mb-20 flex">
+    <section id="education" className="relative md:min-h-screen min-h-96 mb-20 flex">
       <div className="w-none md:w-1/2">
         <img
           className="absolute -z-10 md:max-w-2xl -left-20"
@@ -149,20 +151,27 @@ const Education = () => {
                   alt="button"
                 />
               </button>
-              {openIndex === index && (
-                <div className="py-6 px-8 w-3/4 -mt-5 ">
+              <div
+                ref={(el) => (contentRefs.current[index] = el)}
+                style={{
+                  maxHeight: openIndex === index ? contentRefs.current[index]?.scrollHeight : 0,
+                }}
+                className={`overflow-hidden transition-max-height duration-500 ease-in-out`}
+              >
+                <div className="pb-6 px-8 w-3/4">
                   <h4 className="mb-3 font-semibold text-xl">{course.course_title}</h4>
                   <h4 className="mb-3"> {course.course_date}</h4>
                   <a
                     href={course.website}
-                    className="mb-3 font-semibold hover:text-bright-sun "
+                    className="mb-3 font-semibold hover:text-bright-sun"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
                     {course.website}
                   </a>
-
-                  <p>{course.tech_learned}</p>
+                  <div>{course.tech_learned}</div>
                 </div>
-              )}
+              </div>
             </div>
           ))}
         </div>

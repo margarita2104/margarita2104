@@ -1,20 +1,60 @@
+import { Link, animateScroll as scroll } from "react-scroll";
+
 const Header = () => {
   return (
     <header className="my-4">
       <nav className="py-4 px-6 border-2 rounded-full">
         <ul className="flex md:gap-10 gap-4 md:justify-start justify-between">
-          <a className="hover:text-bright-sun" href="#">
+          <Link
+            className="hover:text-bright-sun"
+            to="#"
+            spy={true}
+            smooth={true}
+            offset={-70}
+            duration={500}
+          >
             Home
-          </a>
-          <a className="hover:text-bright-sun" href="#about">
+          </Link>
+          <Link
+            className="hover:text-bright-sun"
+            to="about"
+            spy={true}
+            smooth={true}
+            offset={-200}
+            duration={500}
+          >
             About
-          </a>
-          <a className="hover:text-bright-sun" href="#projects">
+          </Link>
+          <Link
+            className="hover:text-bright-sun"
+            to="projects"
+            spy={true}
+            smooth={true}
+            offset={-100}
+            duration={500}
+          >
             Projects
-          </a>
-          <a className="hover:text-bright-sun" href="#contact">
+          </Link>
+          <Link
+            className="hover:text-bright-sun"
+            to="education"
+            spy={true}
+            smooth={true}
+            offset={-100}
+            duration={500}
+          >
+            Education
+          </Link>
+          <Link
+            className="hover:text-bright-sun"
+            to="contact"
+            spy={true}
+            smooth={true}
+            offset={-250}
+            duration={500}
+          >
             Contact
-          </a>
+          </Link>
         </ul>
       </nav>
     </header>
