@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Margarita!
 
-Welcome to my GitHub profile! I'm a software developer with experince in both front-end and back-end development. I enjoy creating dynamic, responsive web applications and exploring new technologies. 
+Welcome to my GitHub profile! I'm a software developer with experince in both frontend and backend development. I enjoy creating dynamic, responsive web applications and exploring new technologies. 
 
 ## 🔗 Connect with Me
 
