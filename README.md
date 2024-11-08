@@ -55,10 +55,12 @@ We've created **[CosmicClassroom](https://github.com/geirnaert-alan/cosmic-class
 
 - **#herHACK 2024:** A female-led hackathon in Zurich
 
+We've developed **[Equal=Ink](https://github.com/margarita2104/equalink)**: an intelligent tool designed to promote inclusive, unbiased journalism. It analyzes written content for potential gender bias, providing actionable feedback to help journalists create balanced and fair reporting. By empowering users to produce content that resonates with everyone, Equal=Ink ensures that every word counts towards more equitable storytelling.
+
 ## 📈 GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=margarita2104&theme=buefy&show_icons=true&hide_border=true&count_private=true)
-![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=margarita2104&theme=buefy&hide_border=true)
+![My Streak](https://github-readme-streak-stats.herokuapp.com?user=margarita2104&theme=buefy&hide_border=true)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=margarita2104&theme=buefy&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Get in Touch
