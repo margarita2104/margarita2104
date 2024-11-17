@@ -22,7 +22,7 @@ Feel free to check out my GitHub repositories for more!
 ### Front-end
 - **Languages & Tools:** JavaScript, HTML, CSS, TypeScript
 - **Frameworks & Libraries:** React.js, Redux, axios
-- **Other Skills:** DOM Manipulation, React Forms, React Router, Frontend Authentication, Hooks, Higher Order Components (HOC), Styled Components
+- **Other Skills:** DOM Manipulation, React Forms, React Router, Frontend Authentication, Hooks, Higher Order Components (HOC), Styled Components, Tailwind
 
 ### Back-end
 - **Languages & Tools:** Python, Django, SQL
