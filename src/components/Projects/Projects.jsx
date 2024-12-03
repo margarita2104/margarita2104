@@ -71,7 +71,7 @@ const Projects = () => {
       <div className="flex w-full flex-col gap-9 md:grid md:grid-cols-3">
         {PROJECTS.map((project) => (
           <div className="relative" key={project.id}>
-            <a href={project.website} className="block relative">
+            <a href={project.website} className="block relative" target="_blank">
               <img
                 className="rounded-2xl"
                 src={project.image}
