@@ -12,12 +12,24 @@ const EDUCATION = [
     website: "https://rubymonstas.ch",
     tech_learned: (
       <p className="mt-3" >
-        <b className="font-semibold">Back-end:</b> Ruby
+        <b className="font-semibold">Back-end:</b> Ruby  &bull; Ruby on Rails
       </p>
     ),
   },
   {
     id: 1,
+    name: "CODE FIRST GIRLS",
+    course_title: "Introduction to Python and Apps",
+    course_date: "October - November 2024",
+    website: "https://codefirstgirls.com",
+    tech_learned: (
+      <p className="mt-3" >
+        <b className="font-semibold">Back-end:</b> Python &bull; APIs
+      </p>
+    ),
+  },
+  {
+    id: 2,
     name: "CONSTRUCTOR ACADEMY",
     course_title: "Full-stack Bootcamp",
     course_date: "May - August 2024",
@@ -45,7 +57,7 @@ const EDUCATION = [
     ),
   },
   {
-    id: 2,
+    id: 3,
     name: "JAVASCRIPT.INFO",
     course_title: "JavaScript/DOM/Interfaces course",
     course_date: "March - April 2024",
@@ -58,7 +70,7 @@ const EDUCATION = [
     ),
   },
   {
-    id: 3,
+    id: 4,
     name: "CODE FIRST GIRLS",
     course_title: "Introduction to JavaScript",
     course_date: "November 2023 - February 2024",
@@ -72,7 +84,7 @@ const EDUCATION = [
     ),
   },
   {
-    id: 4,
+    id: 5,
     name: "CODE FIRST GIRLS",
     course_title: "Intro to Data MOOC Sprint",
     course_date: "November - December 2023",
@@ -80,7 +92,7 @@ const EDUCATION = [
     tech_learned: <p className="mt-3">Databases &bull; SQL</p>,
   },
   {
-    id: 5,
+    id: 6,
     name: "CODE FIRST GIRLS",
     course_title: "Introduction to Web Development",
     course_date: "May - July 2023",
@@ -94,7 +106,7 @@ const EDUCATION = [
     ),
   },
   {
-    id: 6,
+    id: 7,
     name: "MOSCOW STATE UNIVERSITY",
     course_title:
       "Faculty of Philology, Department of Translation Theory and Practice",
