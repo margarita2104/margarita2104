@@ -1,5 +1,5 @@
 import ProjectsImg from "../../assets/projects-image.svg";
-import PanelistaImg from '../../assets/Panelista.png';
+// import PanelistaImg from '../../assets/Panelista.png';
 import MotionImg from '../../assets/Motion.png';
 import SmartComplianceImg from '../../assets/Smart-compliance.png';
 import UpsurgeImg from '../../assets/Upsurge.png';
@@ -7,14 +7,14 @@ import BlanchardImg from '../../assets/Blanchard.png';
 import PongImg from '../../assets/Pong.png';
 
 const PROJECTS = [
-  {
-    id: 0,
-    name: "Panelista",
-    descr:
-      "Panelista's aim is to provide access to a list of diverse speakers and panelists, so it is easier for event organizers to increase diverse representation on stage.",
-    website: "https://panelista.ch",
-    image: PanelistaImg,
-  },
+  // {
+  //   id: 0,
+  //   name: "Panelista",
+  //   descr:
+  //     "Panelista's aim is to provide access to a list of diverse speakers and panelists, so it is easier for event organizers to increase diverse representation on stage.",
+  //   website: "https://panelista.ch",
+  //   image: PanelistaImg,
+  // },
   {
     id: 1,
     name: "Motion",
