@@ -39,7 +39,7 @@ Feel free to check out my GitHub repositories for more!
 
 ## 🔨 Projects I'm Currently Working On
 
-- **[Swissitize:](https://margarita2104.github.com/swissitize/)** Master Swiss knowledge with ease. Prepare for naturalization with personalized flashcards. This is my first big project in Ruby, which I'm developing with the help of my friends from Ruby Monstas.
+- **[Swissitize:](https://github.com/margarita2104/swissitize)** Master Swiss knowledge with ease. Prepare for naturalization with personalized flashcards. This is my first big project in Ruby, which I'm developing with the help of my friends from Ruby Monstas.
 - **[Atomic Quest:](https://margarita2104.github.io/atomic-quest/)** A DnD-based game set in a world of cyber-socialism. Become a warrior of justice, battle legendary monsters, navigate party intrigues, and explore vast worlds. Your choices shape the story, guided by the Leader of the Cybernetic Proletariat Revolution and your luck. Experience a unique twist on classic role-playing.
 
 ## 🌟 Upcoming Participation
