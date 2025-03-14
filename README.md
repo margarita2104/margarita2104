@@ -60,7 +60,6 @@ We've developed **[Equal=Ink](https://github.com/margarita2104/equalink)**: an i
 ## 📈 GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=margarita2104&theme=buefy&show_icons=true&hide_border=true&count_private=true)
-![My Streak](https://github-readme-streak-stats.herokuapp.com?user=margarita2104&theme=buefy&hide_border=true)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=margarita2104&theme=buefy&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Get in Touch
